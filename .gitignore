@@ -1,0 +1,3 @@
+Git failed with a fatal error.
+error:open("{path}/{file}.jfm"): Permission denied.
+fatal: Unable to process path {path}
