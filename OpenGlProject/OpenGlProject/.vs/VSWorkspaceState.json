@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\GLFW"
   ],
-  "SelectedNode": "\\Main.cpp",
+  "SelectedNode": "\\GLFW",
   "PreviewInSolutionExplorer": false
 }
