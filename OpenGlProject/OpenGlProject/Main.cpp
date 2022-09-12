@@ -1,4 +1,4 @@
-#include <C:\Users\ethan\Desktop\OPEN GL\glfw-3.3.8.bin.WIN64\glfw-3.3.8.bin.WIN64\include\GLFW/glfw3.h>
+#include <GLFW/glfw3.h>
 
 int main(void)
 {
